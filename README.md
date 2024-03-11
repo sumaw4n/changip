@@ -12,3 +12,5 @@ chmod +x *
 iki lak arep di ip hunter tiap jam
 yg butuh modem star2 dan max
 IP Hunter
+
+#edit modem.sh
